@@ -65,17 +65,19 @@ fi
 
 banner() {
 
-printf "\e[1;77m     _     _             _  _  ______   _      _        _      \e[0m\n"
-printf "\e[1;77m    | |   | |           | || |(_____ \ | |    (_)      | |     \e[0m\n"
-printf "\e[1;77m     \ \  | | _    ____ | || | _____) )| | _   _   ___ | | _   \e[0m\n"
-printf "\e[1;77m      \ \ | || \  / _  )| || ||  ____/ | || \ | | /___)| || \  \e[0m\n"
-printf "\e[1;77m  _____) )| | | |( (/ / | || || |      | | | || ||___ || | | | \e[0m\n"
-printf "\e[1;77m (______/ |_| |_| \____)|_||_||_|      |_| |_||_|(___/ |_| |_| v1.1\e[0m\n"
+printf "\e[1;77m    omo   ymm.  -mh`        `dm.                    h:       /.         ./                    \e[0m\n"
+printf "\e[1;77m    -md` :mhmo  om+  -+++`  `dm-+++.       /./++-   h:/++:   /.  :+++.  ./  /./++:    :++:::  \e[0m\n"  
+printf "\e[1;77m     ym/`ym.sm..mh``hd++omo `dmh++hmo      hh. `ss  hy` `h+  h: yo  `+` :y  hy` `h+ `h/  /ms  \e[0m\n"   
+printf "\e[1;77m     -mh+m+ -my+mo +mmmmmmm.`dm.  .md`     h:   `h. h:   ss  h: -sd++:  :y  h:   ss +y    ss  \e[0m\n"   
+printf "\e[1;77m      ymmh`  ommm. :mh` .+/ `dm/  /mh      h+   -h` h:   ss  h:     .yo :y  h:   ss :h`  `ys  \e[0m\n"   
+printf "\e[1;77m      :mm/   `dmo   :hmmms. `dmsmmms.      hyo+oo.  h:   ss  h: /s++os. :y  h:   ss  :s++oh+  \e[0m\n"
+printf "\e[1;77m                                           h+                                       .+`  .d.  \e[0m\n"   
+printf "\e[1;77m                                           /-                                        -++++    v1.1\e[0m\n"   
 printf "\n"
-printf "\e[1;93m       .:.:.\e[0m\e[1;77m Phishing Tool coded by: @thelinuxchoice \e[0m\e[1;93m.:.:.\e[0m\n"
+printf "\e[1;93m       .:.:.\e[0m\e[1;77m Phishing Tool coded by: @Mr.17zefs \e[0m\e[1;93m.:.:.\e[0m\n"
 printf "\n"
 printf "  \e[101m\e[1;77m:: Disclaimer: Developers assume no liability and are not    ::\e[0m\n"
-printf "  \e[101m\e[1;77m:: responsible for any misuse or damage caused by ShellPhish ::\e[0m\n"
+printf "  \e[101m\e[1;77m:: responsible for any misuse or damage caused by Web phising ::\e[0m\n"
 printf "\n"
 }
 
